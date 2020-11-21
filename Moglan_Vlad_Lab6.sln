@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moglan_Vlad_Lab6", "Moglan_Vlad_Lab6.csproj", "{2BCB1030-B138-4268-BE10-A0EAAB6D5F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{E7D873CD-F503-4DD6-BA2D-098FEB7E4A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCB1030-B138-4268-BE10-A0EAAB6D5F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCB1030-B138-4268-BE10-A0EAAB6D5F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCB1030-B138-4268-BE10-A0EAAB6D5F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCB1030-B138-4268-BE10-A0EAAB6D5F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D873CD-F503-4DD6-BA2D-098FEB7E4A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D873CD-F503-4DD6-BA2D-098FEB7E4A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D873CD-F503-4DD6-BA2D-098FEB7E4A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D873CD-F503-4DD6-BA2D-098FEB7E4A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63556BBA-751B-46E7-AD38-058B726F37E6}
+	EndGlobalSection
+EndGlobal
